@@ -1,0 +1,14 @@
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10.0\Main-Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10.0\Main-Div.AssemblyInfoInputs.cache
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10.0\Main-Div.AssemblyInfo.cs
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10.0\Main-Div.csproj.CoreCompileInputs.cache
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\bin\Debug\net10.0\Main-Div.exe
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\bin\Debug\net10.0\Main-Div.deps.json
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\bin\Debug\net10.0\Main-Div.runtimeconfig.json
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\bin\Debug\net10.0\Main-Div.dll
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\bin\Debug\net10.0\Main-Div.pdb
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10.0\Main-Div.dll
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10.0\refint\Main-Div.dll
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10.0\Main-Div.pdb
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10.0\Main-Div.genruntimeconfig.cache
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10.0\ref\Main-Div.dll
