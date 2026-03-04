@@ -12,3 +12,4 @@ C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10
 C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10.0\Main-Div.pdb
 C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10.0\Main-Div.genruntimeconfig.cache
 C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10.0\ref\Main-Div.dll
+C:\Users\Pathikrit Samanta\OneDrive\Desktop\C# Programs\Main-Div\obj\Debug\net10.0\Main-Div.sourcelink.json

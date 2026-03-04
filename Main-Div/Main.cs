@@ -19,7 +19,16 @@ static void Main()
             {5, new SwapNum()},
             {6, new DivbyTwo()},
             {7, new AddMul()},
-            {8, new Seventeen()}
+            {8, new Seventeen()},
+            {9, new DigitSum()},
+            {10, new ReverseNum()},
+            {11, new Palindrome()},
+            {12, new AddBinary()},
+            {13, new MulBinary()},
+            {14, new CalcNum()},
+            {15, new ExpMul()},
+            {16, new ExpDiv()},
+            {17, new MulTable()}
         };
         while (true) //code reruns in a loop
         {
