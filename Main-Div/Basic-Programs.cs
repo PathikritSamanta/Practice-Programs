@@ -317,3 +317,53 @@ int a=Convert.ToInt32(Console.ReadLine());
 }
     }
 }
+public class Grading: CHash
+{
+    public string ProgramName=> "C# Program to Read a Grade and and Display the Equivalent Description";
+    public void Execute()
+    {
+        Console.Write("Enter a grade (S, A, B, C, D, F): ");
+char s=Convert.ToChar(Console.ReadLine());
+switch (s){
+    case 'S': 
+    Console.Write("Excellent!");
+    break;
+    case 'A':
+    Console.Write("Superb!");
+    break;
+    case 'B':
+    Console.Write("Great");
+    break;
+    case 'C':
+    Console.Write("Good");
+    break;
+    case 'D':
+    Console.Write("Needs Improvement");
+    break;
+    case 'F':
+    Console.Write("You Failed");
+    break;
+    default:
+    Console.Write("Error in grade or wrong grade entered");
+    break;
+}
+    }
+}
+public class HeightDiv: CHash
+{
+    public string ProgramName=> "C# Program to Accept the Height of a Person and Categorize as Taller, Dwarf & Average";
+    public void Execute()
+    {
+        Console.Write("Enter your height (in cm): ");
+int a=Convert.ToInt32(Console.ReadLine());
+if (a > 175){
+    Console.Write("You are tall.");
+}
+else if (a < 135){
+    Console.Write("You are dwarf.");
+}
+else{
+    Console.Write("You have an average height.");
+}
+    }
+}

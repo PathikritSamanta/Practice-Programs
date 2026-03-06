@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Xml.Serialization;
+using System.Security.Cryptography;
 namespace BeginnerFriendly{
 public interface CHash{    //Creates an interface
     string ProgramName { get;}
@@ -28,7 +28,23 @@ static void Main()
             {14, new CalcNum()},
             {15, new ExpMul()},
             {16, new ExpDiv()},
-            {17, new MulTable()}
+            {17, new MulTable()},
+            {18, new Grading()},
+            {19, new HeightDiv()},
+            {20, new Fibonacci()},
+            {21, new Factorial()},
+            {22, new PrimeNum()},
+            {23, new LargestPrime()},
+            {24, new PerfectNum()},
+            {25, new Armstrong()},
+            {26, new ArmstrongNum()},
+            {27, new NumberSum()},
+            {28, new NaturalSum()},
+            {29, new Factors()},
+            {30, new Absolute()},
+            {31, new RandomNum()},
+            {32, new Amicable()},
+            {33, new SqrCbr()}  //done till here
         };
         while (true) //code reruns in a loop
         {
